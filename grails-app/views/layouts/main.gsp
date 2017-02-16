@@ -7,7 +7,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Web Registry - <g:layoutTitle/></title>
+    <title>Akson Docker Registry - <g:layoutTitle/></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="${assetPath(src: 'favicon.ico')}" type="image/x-icon">
     <link rel="apple-touch-icon" href="${assetPath(src: 'apple-touch-icon.png')}">
@@ -29,7 +29,7 @@
                     data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
                     class="icon-bar"></span><span class="icon-bar"></span>
-            </button>  <g:link class="navbar-brand" controller="repository" action="index">Web Registry</g:link>
+            </button>  <g:link class="navbar-brand" controller="repository" action="index">Akson Docker Registry</g:link>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
